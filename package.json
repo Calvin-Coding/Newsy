@@ -1,0 +1,11 @@
+{
+  "name": "newsy",
+  "version": "0.0.7",
+  "description": "A game that involves searching databases and find out who did it.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calvin-Coding",
+  "license": "ISC"
+}
